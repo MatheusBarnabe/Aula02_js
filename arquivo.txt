@@ -1,1 +1,10 @@
-2
+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
+
+https://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@github.com/MatheusBarnabe/Aula02_js.git
+
+
+
+
+1228b71a68b3764d1606000d7c9d827d
+
+api.openweathermap.org/data/2.5/forecast?q=Itu&appid=1228b71a68b3764d1606000d7c9d827d
